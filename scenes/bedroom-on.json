@@ -1,0 +1,29 @@
+{
+  "uniqueId": "bedroom-on",
+  "commands": [
+    {
+      "topic": "lights/hue/00:17:88:01:00:f5:b3:6c-0b/set/state",
+      "value": {
+        "on": true
+      }
+    },
+    {
+      "topic": "lights/hue/00:17:88:01:00:dd:1b:73-0b/set/state",
+      "value": {
+        "on": true
+      }
+    },
+    {
+      "topic": "lights/hue/00:17:88:01:00:10:6e:17-0b/set/state",
+      "value": {
+        "on": true
+      }
+    },
+    {
+      "topic": "lights/hue/00:17:88:01:00:10:6e:15-0b/set/state",
+      "value": {
+        "on": true
+      }
+    }
+  ]
+}
